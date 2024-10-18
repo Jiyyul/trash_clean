@@ -1,6 +1,6 @@
 import requests
 
-# 발급받은 API 키를 입력
+# 발급받은 API 키를 입력 (각자 모두 다름)
 API_KEY = 'vXmg7Fad8Jmi0PG4FtI9beEAt7Io8s610h10dDlO5lQnJU5Rq8ltgGBoNDbps1wnrRtGpQZk47JqLhJzBim07A%3D%3D'
 # 동작구 가로쓰레기통 API URL
 url = 'http://infuser.odcloud.kr/oas/docs?namespace=15038054/v1'
